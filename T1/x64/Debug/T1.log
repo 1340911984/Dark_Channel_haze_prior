@@ -1,0 +1,17 @@
+﻿  源.cpp
+D:\OpenCvWorkSpace\T1\源.cpp(175,33): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\OpenCvWorkSpace\T1\源.cpp(175,33): warning C4244:         with
+D:\OpenCvWorkSpace\T1\源.cpp(175,33): warning C4244:         [
+D:\OpenCvWorkSpace\T1\源.cpp(175,33): warning C4244:             _Tp=uchar
+D:\OpenCvWorkSpace\T1\源.cpp(175,33): warning C4244:         ]
+D:\OpenCvWorkSpace\T1\源.cpp(176,33): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\OpenCvWorkSpace\T1\源.cpp(176,33): warning C4244:         with
+D:\OpenCvWorkSpace\T1\源.cpp(176,33): warning C4244:         [
+D:\OpenCvWorkSpace\T1\源.cpp(176,33): warning C4244:             _Tp=uchar
+D:\OpenCvWorkSpace\T1\源.cpp(176,33): warning C4244:         ]
+D:\OpenCvWorkSpace\T1\源.cpp(177,33): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+D:\OpenCvWorkSpace\T1\源.cpp(177,33): warning C4244:         with
+D:\OpenCvWorkSpace\T1\源.cpp(177,33): warning C4244:         [
+D:\OpenCvWorkSpace\T1\源.cpp(177,33): warning C4244:             _Tp=uchar
+D:\OpenCvWorkSpace\T1\源.cpp(177,33): warning C4244:         ]
+  T1.vcxproj -> D:\OpenCvWorkSpace\T1\x64\Debug\T1.exe
